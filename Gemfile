@@ -55,3 +55,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # deviseのGemをインストール
 gem 'devise'
+# pry-railsをインストール
+gem 'pry-rails'
